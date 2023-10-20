@@ -1,7 +1,7 @@
-# GlobalAiHub_AygazBootcamp Furkan BASTURK
+# GlobalAiHub_AkbankBootcamp Furkan BASTURK
 ## Giriş
 
-([https://globalaihub.com/aygaz-makine-ogrenmesi-bootcamp/](https://globalaihub.com/akbank-machine-learning-bootcampbootcamp-rel116582/)) Global Ai Hub düzenlemiş olduğu Akbank Makine Öğrenmesi Bootcamp kapsamında verilen proje çalışması için yapılmıştır.
+(https://globalaihub.com/akbank-machine-learning-bootcampbootcamp-rel116582/) Global Ai Hub düzenlemiş olduğu Akbank Makine Öğrenmesi Bootcamp kapsamında verilen proje çalışması için yapılmıştır.
 
 # Proje Detayları
 
